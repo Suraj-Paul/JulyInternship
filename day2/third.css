@@ -1,0 +1,21 @@
+h1{
+    text-align:center;
+    color:#189C3E
+ }
+ a{
+     text-decoration: none;
+     font-size:20
+ }
+ #fb{
+     color:rgb(29, 116, 216);
+ }
+ #youtube{
+     color:red
+ }
+ .footer{
+     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+     text-align: center;
+ }
+ span{
+     color:red
+ }

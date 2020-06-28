@@ -4,7 +4,8 @@ https://github.com/
 https://www.youtube.com/developerfunnel
 https://www.pivotaltracker.com/n/projects/2444925/stories/172475739
 https://t.me/joinchat/MMTIthaJAziP3wIo9t01Ig
-
+https://htmlcolorcodes.com/color-picker/
+https://developerfunnel.herokuapp.com/restaurants
 /////////////////////
 User Stories
 ////////////////
@@ -23,3 +24,15 @@ favicon
 
 inline element > they come in same line
 block level > they start from new line
+
+//////////////////
+inline
+extrnal file
+style tag
+
+>>>>>>>
+Target Element
+
+> TagName    h1,a,b,u,p,img
+> className  "when we target multiple elemets"
+> Id         "When we target any unique element"
