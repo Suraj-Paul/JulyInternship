@@ -36,3 +36,36 @@ Target Element
 > TagName    h1,a,b,u,p,img
 > className  "when we target multiple elemets"
 > Id         "When we target any unique element"
+
+
+//////////
+primary > blue
+success > green
+info    > skyblue
+warning > orange
+danger  > Red
+
+
+///////Grids////
+12 Grid
+xs xtra small
+sm small 
+md medium
+lg large
+
+col-
+col-sm
+col-md
+col-lg
+col-xl
+
+ <ul>
+                <li>Apple</li>
+                <li>Mango</li>
+                <li>Banana</li>
+            </ul>
+            <ol>
+                <li>Apple</li>
+                <li>Mango</li>
+                <li>Banana</li>
+            </ol>

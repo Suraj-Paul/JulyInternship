@@ -1,0 +1,35 @@
+.first{
+    height: 200px;
+    background:teal;
+    float: left;
+}
+
+.second{
+    height: 200px;
+    background:thistle;
+    float: left;
+}
+
+.third{
+    height: 200px;
+    background:hotpink;
+    float: left;
+}
+.four{
+    height: 200px;
+    background:tomato;
+    float: left;
+}
+.five{
+    height: 200px;
+    background:gold;
+    float: left;
+}
+.six{
+    height: 200px;
+    background:indigo;
+    float: left;
+}
+.myplan{
+    font-size: 20px;
+}
